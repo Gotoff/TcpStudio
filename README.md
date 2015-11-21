@@ -1,13 +1,13 @@
 # TcpStudio
 
-是一个在Android手机上对网页访问KPI进行评估和分析的小工具，主要功能包括:
-
-* tcp抓包，这需要android有root权限
-* 给出特定网页访问的首页和首包
-* 对测试数据进行统一的存储和管理
-
 这是项目 [TcpStudio](https://github.com/Gotoff/TcpStudio.git) ，
 欢迎访问。
+
+TcpStudio是一个在Android手机上对网页访问KPI进行评估和分析的小工具，主要功能包括:
+
+* tcp抓包，这需要android有root权限
+* 给出特定网页访问的首页时延和首包时延
+* 对测试数据进行统一的存储和管理
 
 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
 平台都有客户端工具可以访问。虽然版本库只提供Git一种格式，
