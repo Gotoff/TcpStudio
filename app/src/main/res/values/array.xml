@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_type">
+        <item>WLAN</item>
+        <item>3G</item>
+        <item>LTE</item>
+    </string-array>
+</resources>
